@@ -33,8 +33,10 @@ If say the feature branch is multiple commits ahead of the main branch we can me
 # Github Remotely 🏘️
 
 ### How to link to your repository on Github
+To connect you
+'''
 **$ git remote add origin remote_repo_url**
 **$ git push -u origin master**
-
+'''
 
 
