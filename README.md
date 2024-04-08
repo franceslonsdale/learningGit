@@ -12,7 +12,7 @@ I'd recommend installing zombie package for gitignore on vs code
 then in the search bar at the top press Ctrl, Shift, p to get this icon > and then search gitignore and press Add gitignore file. Then it'll let you search again and type in
 Node.gitignore and click this and all the files to ignore it will do
 
-## Branching :tree
+## Branching
 
 **$ git branch** shows the current branch you are working on
 **$ git checkout -b feature** creates a new branch feature and switches to
