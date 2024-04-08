@@ -4,6 +4,8 @@ Follow this tutorial if you feel like you need to learn how to use github for be
 
 # Locally 🏠
 
+Firstly you can either use git bash or put it in your terminal in my example I'm using the vs code terminal
+
 **$ git init**
 initiallises new git hub repository
 
