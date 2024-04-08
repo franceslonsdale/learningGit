@@ -32,11 +32,18 @@ If say the feature branch is multiple commits ahead of the main branch we can me
 
 # Github Remotely 🏘️
 
-### How to link to your repository on Github
-To connect you
-'''
-**$ git remote add origin remote_repo_url**
+## How to link to your repository on Github
+To connect your locally stored code to the remote repository, this will make all your files from your local code to appear in the GitHub Repo!
+**$ git remote add origin *remote_repo_url***   
 **$ git push -u origin master**
-'''
+To connect your locally stored code to the remote repository, this will make all your files from your local code to appear in the GitHub Repo!
 
-
+## Contributing to other open-source projects on GitHub
+This is for when we want to contribute to another open-source project on GitHub which we haven't been added to as a contributor.
+Here are the following steps:
+1. Fork the existing project
+2. In your terminal use **$ git clone *projects_url***
+3. Make any changes you'd like to
+4. To push changes to remote fork **$ git push origin *branch_used***
+5. Then on Github if you click on the branch youj used at the top, you can then create a pull request to pull in the remote changes and merge them intp the master/main branch
+   
