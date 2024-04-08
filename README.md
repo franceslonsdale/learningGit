@@ -1,6 +1,8 @@
-## This is me trying to learn git
+## This is me trying to learn git 😅
+Follow this tutorial if you feel like you need to learn how to use github for beginners ❗
 
-# Locally 
+
+# Locally 🏠
 
 **$ git init**
 initiallises new git hub repository
@@ -10,7 +12,7 @@ I'd recommend installing zombie package for gitignore on vs code
 then in the search bar at the top press Ctrl, Shift, p to get this icon > and then search gitignore and press Add gitignore file. Then it'll let you search again and type in
 Node.gitignore and click this and all the files to ignore it will do
 
-## Branching
+## Branching :tree
 
 **$ git branch** shows the current branch you are working on
 **$ git checkout -b feature** creates a new branch feature and switches to
@@ -28,7 +30,7 @@ Essentially if we were working on a new branch let's name it feature and we comm
 If say the feature branch is multiple commits ahead of the main branch we can merge them all at once but we have to use **$ git merge -- feature squash**
 
 
-# Github Remotely
+# Github Remotely 🏘️
 
 ### How to link to your repository on Github
 **$ git remote add origin remote_repo_url**
