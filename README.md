@@ -5,7 +5,7 @@
 **$ git init**
 initiallises new git hub repository
 
-**Making git ignore**
+### Making git ignore
 I'd recommend installing zombie package for gitignore on vs code
 then in the search bar at the top press Ctrl, Shift, p to get this icon > and then search gitignore and press Add gitignore file. Then it'll let you search again and type in
 Node.gitignore and click this and all the files to ignore it will do
@@ -31,8 +31,8 @@ If say the feature branch is multiple commits ahead of the main branch we can me
 # Github Remotely
 
 ### How to link to your repository on Github
-**$ git remote add origin remote_repo_url
-$ git push -u origin master**
+**$ git remote add origin remote_repo_url**
+**$ git push -u origin master**
 
 
 
