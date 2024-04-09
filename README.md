@@ -48,4 +48,6 @@ Here are the following steps:
 3. Make any changes you'd like to
 4. To push changes to remote fork **$ git push origin *branch_used***
 5. Then on Github if you click on the branch youj used at the top, you can then create a pull request to pull in the remote changes and merge them intp the master/main branch
-   
+
+## Pushing and pulling
+I need to describe what pushing and pulling does just so I have some point of reference
