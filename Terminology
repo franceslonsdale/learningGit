@@ -1,0 +1,17 @@
+# Important terminology
+
+TypeScript is a strongly typed language and requires the specification of data types which helps
+self document and enforce the code
+loosely typed code doesn't require this ie JavaScript
+
+Static typing
+Dynamic typing
+not the same as strongly and loosely types
+
+Typescript is a staticly typed language therefore types checked at compile time
+JavaScript is a dynamically typed language therefore types checked at run time
+
+Pros
+- self documenting
+- catching errors in development
+- great for teams
