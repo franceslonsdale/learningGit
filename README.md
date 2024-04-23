@@ -34,7 +34,7 @@ If say the feature branch is multiple commits ahead of the main branch we can me
 
 # Github Remotely 🏘️
 
-## How to link to your repository on Github
+## How to link to your repository on Github 🔗
 To connect your locally stored code to the remote repository, this will make all your files from your local code to appear in the GitHub Repo!
 **$ git remote add origin *remote_repo_url***   
 **$ git push -u origin master**
