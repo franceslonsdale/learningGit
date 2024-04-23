@@ -40,7 +40,7 @@ To connect your locally stored code to the remote repository, this will make all
 **$ git push -u origin master**
 To connect your locally stored code to the remote repository, this will make all your files from your local code to appear in the GitHub Repo!
 
-## Contributing to other open-source projects on GitHub :raise
+## Contributing to other open-source projects on GitHub 🤝
 This is for when we want to contribute to another open-source project on GitHub which we haven't been added to as a contributor.
 Here are the following steps:
 1. Fork the existing project
