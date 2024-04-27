@@ -48,9 +48,20 @@ Here are the following steps:
 3. To push changes to remote fork **$ git push origin *branch_used***
 4. Then on Github if you click on the branch youj used at the top, you can then create a pull request to pull in the remote changes and merge them intp the master/main branch
 
+## How to contribute to a project when you have limit access
+When collaberating online you may not have access rights to push and pull as you please to the repo which is understandable when you think about it! They don't know you are it provides a layer or protection for their code! However it's not all bad news as there is a very easy way to still contribute despite this which involves forking.
+
+### How to fork
+To fork we need to follow the instructions:
+1. Click fork in the repo of choice
+
+### Why fork
+may have already done this one ****
+
 # Updating changes ♻️
 To make the change use **git add .** and then **git commit -m"*message for commit*** to lock in your changes 🔒. This will then commit the changes to the current branch. If you are on a side branch use **git pull *master branch name*** which updates you with the new changes from the main branch you may be behind on then go on main branch. The use **git push *name of main branch you want to push it to*** to send your changes to the *main* branch 💌 and use **git merge *branch name made changes on*** to confirm your merge and then it should have made the changes on GitHub webpage 💯
 ## Pushing and pulling
 I need to describe what pushing and pulling does just so I have some point of reference
+
 
 
