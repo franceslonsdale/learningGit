@@ -52,8 +52,10 @@ Here are the following steps:
 When collaberating online you may not have access rights to push and pull as you please to the repo which is understandable when you think about it! They don't know you are it provides a layer or protection for their code! However it's not all bad news as there is a very easy way to still contribute despite this which involves forking.
 
 ### How to fork
+https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project - reference/ make summary
 To fork we need to follow the instructions:
-1. Click fork in the repo of choice
+1. Click fork in the repo of choice <br> ![image](https://github.com/franceslonsdale/learningGit/assets/147734355/b4c30c00-a05f-498b-82e2-3bdb4efc75cb)
+2. 
 
 ### Why fork
 may have already done this one ****
